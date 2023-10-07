@@ -1,2 +1,2 @@
-$("h1").text("HELLO");
+$("h2").text("HELLO");
 $("button").text("dont click");
